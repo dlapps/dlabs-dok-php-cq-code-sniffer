@@ -3,12 +3,6 @@ declare(strict_types=1);
 
 namespace DL\Entity;
 
-/**
- * Class ContactDto.
- *
- * @package DL\Entity
- * @author  ${author}
- */
 class ContactDto
 {
     /**
